@@ -62,7 +62,7 @@ namespace SimpleCalcTest
                 Console.WriteLine($"Answer: {new DataTable().Compute(someVar, null)}");
 
             }
-            Console.WriteLine("----------------------------\nSource on Github:\n\n----------------------------");
+            Console.WriteLine("----------------------------\nSource on Github:\nhttps://github.com/EvelGhost/SimpleCalcTest.git\n----------------------------");
             Console.WriteLine("Press [Enter] to continue...");
             Console.ReadKey();
         }
